@@ -58,7 +58,5 @@
  
 ### ⚙️ GitHub статистика:
 [![Nickolay github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abkolia&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Nickolay LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nickoKun)](https://github.com/KnlnKS/leetcode-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abkolia)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abkolia)](https://github.com/anuraghazra/github-readme-stats)
