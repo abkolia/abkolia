@@ -35,16 +35,6 @@
 </div>
 
 ---
-
-### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| stepik.org "Поколение Python": курс для начинающих              | 10/2022 - 11/2022 |
-
----
  
 ### ⚙️ GitHub статистика:
-[![Nickolay github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abkolia&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abkolia)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abkolia)](https://github.com/anuraghazra/github-readme-stats)
